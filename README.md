@@ -2,7 +2,9 @@
 
 Full-stack engineer based in Istanbul. I build web products end to end: TypeScript SDKs, indexers and backend services, data-heavy frontends, and lately on-chain infrastructure for AI agents.
 
-Currently a Software Engineer at [OpenLLM](https://github.com/openllmsh). Previously built multi-chain token economy tooling at Brix Money (Inverter Network).
+Currently a Software Engineer at [OpenLLM](https://openllm.sh) ([cli](https://github.com/openllmsh/cli) · [protocol](https://github.com/openllmsh/protocol) · [wire](https://github.com/openllmsh/wire) · [tunnel](https://github.com/openllmsh/tunnel) · [daemon](https://github.com/openllmsh/daemon)). Previously built multi-chain token economy tooling at Brix Money ([Inverter Network](https://github.com/InverterNetwork)).
+
+President of the [YTU Blockchain Club](https://ytublockchain.com) at Yildiz Technical University ([site repo](https://github.com/YTU-BLOCKCHAIN/ytu-blockchain-web)).
 
 #### Selected work
 
